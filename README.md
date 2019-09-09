@@ -1,5 +1,5 @@
-# 复习考研的那些事儿～～
-![GitHub watchers](https://img.shields.io/github/watchers/AngelKitty/review_the_national_post-graduate_entrance_examination.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/AngelKitty/review_the_national_post-graduate_entrance_examination.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/AngelKitty/review_the_national_post-graduate_entrance_examination.svg?style=social) ![GitHub followers](https://img.shields.io/github/followers/AngelKitty.svg?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/AngelKitty/review_the_national_post-graduate_entrance_examination.svg?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/AngelKitty/review_the_national_post-graduate_entrance_examination)  ![GitHub last commit](https://img.shields.io/github/last-commit/AngelKitty/review_the_national_post-graduate_entrance_examination) ![GitHub](https://img.shields.io/github/license/AngelKitty/review_the_national_post-graduate_entrance_examination.svg?style=flat-square)
+# 考研的那些事儿～～
+
 当一切成为过去的时候，你对过去就会不以为然了。所以我相信只要你对未来有梦想，并且踏踏实实的走过为将来奋斗的路，你会收获很多的。所以我祝愿所有拥有自己梦想的朋友，选择了就义无返顾的坚持下去，这样在不久的将来，回收获微笑的！
 
 这里我将记录我考研的全过程，包括看过的书，写过的笔记，读过的杂志，推荐的番剧，电影，以及我在生活中一些零碎的记录和思考。
